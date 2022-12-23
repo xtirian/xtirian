@@ -2,7 +2,7 @@
 
 - 🔭 I’m not working actually
 - 🌱 I’m currently learning about React JS
-- 🤔 I’m looking for help with projects to tet my habilities
+- 🤔 I’m looking for help with projects to test my habilities
 - 💬 Ask me about LoTR
 
 <div align="center">
