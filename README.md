@@ -1,7 +1,6 @@
 ### Hi there, I'm Matheus Fernandes 👋
 
 - 🔭 I’m not working actually
-- 🌱 I’m currently learning about React Native
 - 🤔 I’m looking for help with projects to test my habilities
 - 💬 Ask me about LoTR
 
