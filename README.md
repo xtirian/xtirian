@@ -139,19 +139,7 @@ I'm looking to learn new technologies and improve my skills to build amazing web
 <a href="https://github.com/xTirian/JS30-TheForceAwakens"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=xTirian&repo=JS30-TheForceAwakens&theme=dracula" alt="JS30-TheForceAwakens"></a>
 <a href="https://github.com/xTirian/DNC-Exercicios"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=xTirian&repo=DNC-Exercicios&theme=dracula" alt="DNC-Exercicios"></a>
 <a href="https://github.com/xTirian/proj-agencia-digital"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=xTirian&repo=proj-agencia-digital&theme=dracula" alt="proj-agencia-digital"></a>
-  
-
 </p>
-</details>
 
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MelvinAguilar&show_icons=true&theme=radical&count_private=true" alt="MelvinAguilar" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinAguilar&layout=compact&theme=radical" alt="MelvinAguilar" height="165">
-</p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=MelvinAguilar.MelvinAguilar">
-</details>
-  
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
