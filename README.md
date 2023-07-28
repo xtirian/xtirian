@@ -14,6 +14,8 @@ I'm looking to learn new technologies and improve my skills to build amazing web
 <br>
 <br>
 <br>
+<br>
+<br>
 <img align="right" alt="GIF" src="./assets/yo.gif" width="350px"/>
 
 - 🔭 I’m currently studying on **Web Developer**.
