@@ -2,7 +2,7 @@
 ![Banner](./assets/banner.png)
 
 <p align="center">
-"👋 Hello, I'm Matheus Fernandes (aka Tirian), a student in love with Web Development in seach of challenges and knowledge. At the moment, I'm exploring the front-end environment with HTML, CSS and JavaScript, while I go deep in the framework universe too, like React-Native and ReactJS. 
+"👋 Hello, I'm Matheus Fernandes (aka Tirian), a student in love with Web Development in search of challenges and knowledge. At the moment, I'm exploring the front-end environment with HTML, CSS and JavaScript, while I go deep in the framework universe too, like React-Native and ReactJS. 
 I'm looking to learn new technologies and improve my skills to build amazing web experiences. Beyond the code, I like to collaborate with the community, share my knowledge and help others developers in their journey. So, let's code together?💻🚀"
 </p>
 
