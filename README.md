@@ -13,7 +13,7 @@ I'm looking to learn new technologies and improve my skills to build amazing web
 <!--- Web illustrations by Vicent Low ( https://github.com/VL-037 ) --->
 <br>
 <br>
-<img align="right" alt="GIF" src="./assets/yo.gif" height="350px"/>
+<img align="right" alt="GIF" src="./assets/yo.gif" width="350px"/>
 
 <br>
 
