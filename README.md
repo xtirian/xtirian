@@ -1,4 +1,3 @@
-
 ![Banner](./assets/banner.png)
 
 <p align="center">
@@ -29,7 +28,7 @@ I'm looking to learn new technologies and improve my skills to build amazing web
 - 🤝 I’m looking for help in learning about **Accessible Websites** and better **Workflows** that helps me to accelerate my work.
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
- 
+
 <br>
 <br>
 <br>
@@ -49,14 +48,13 @@ I'm looking to learn new technologies and improve my skills to build amazing web
 
 - 🌟 Share my knowledge and experience by mentoring others ou creating contents for the tech community.
 
-
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
 
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/xtirian)](https://www.frontendmentor.io/profile/xtirian)&nbsp;
 [![Linkedin: Matheus Fernandes](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mf-cunha/)](https://www.linkedin.com/in/mf-cunha/)
- 
+
 </div>
 
 <br>
@@ -69,7 +67,6 @@ I'm looking to learn new technologies and improve my skills to build amazing web
   </a>
 </div>
 <br>
-
 
 <div align = "center">
 
@@ -112,15 +109,14 @@ I'm looking to learn new technologies and improve my skills to build amazing web
 
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+
 </details>
 
 </div>
 
-
 <br>
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
-
 
 <details>
 <summary><b>🏆 Github Trophies</b></summary>
@@ -139,7 +135,8 @@ I'm looking to learn new technologies and improve my skills to build amazing web
 <a href="https://github.com/xTirian/JS30-TheForceAwakens"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=xTirian&repo=JS30-TheForceAwakens&theme=dracula" alt="JS30-TheForceAwakens"></a>
 <a href="https://github.com/xTirian/DNC-Exercicios"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=xTirian&repo=DNC-Exercicios&theme=dracula" alt="DNC-Exercicios"></a>
 <a href="https://github.com/xTirian/proj-agencia-digital"><img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=xTirian&repo=proj-agencia-digital&theme=dracula" alt="proj-agencia-digital"></a>
-</p>
 
+</p>
+</details>
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
