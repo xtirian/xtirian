@@ -23,13 +23,12 @@ I’m a **Software Engineering** student (currently 1/10 of the course completed
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtirian/xtirian/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/xtirian/xtirian/output/github-contribution-grid-snake.svg" />
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=xtirian&show_icons=true&theme=dracula" alt="Matheus's GitHub stats" width="320" />
 </p>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtirian&layout=compact&theme=dracula" alt="Top Languages" width="320" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtirian&layout=compact&theme=dracula" alt="Top Languages" width="320" height="176" style="margin-right: 20px;" />
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=xtirian&theme=dracula&hide_border=true" alt="GitHub Streak" width="320" />
+    <img src="https://streak-stats.demolab.com?user=xtirian&theme=dracula&hide_border=true" alt="GitHub Streak" width="320" height="176" />
   </a>
 </p>
 
