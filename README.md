@@ -19,9 +19,9 @@ I’m a **Software Engineering** student (currently 1/10 of the course completed
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xtirian/xtirian/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtirian/xtirian/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/xtirian/xtirian/output/github-contribution-grid-snake.svg" />
   </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=xtirian&show_icons=true&theme=dracula" alt="Matheus's GitHub stats" width="320" />
 </p>
