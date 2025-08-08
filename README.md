@@ -16,6 +16,11 @@ I’m a **Software Engineering** student (currently 1/10 of the course completed
 ## 📂 Featured Repository
 - [Frontend Mentor Projects – SnyderCut Edition](https://github.com/xtirian/Frontend-Mentor-SnyderCut)  
   A compilation of my solutions for Frontend Mentor challenges.
+- [JS30-TheForceAwakens](https://github.com/xtirian/JS30-TheForceAwakens)  
+  A compilation of my solutions for Javascript30 challenge.
+- [PlayerOneProject](https://github.com/xtirian/PlayerOneProject)
+  A compilation of Minigames I created during my studies.
+  
 
 <p align="center">
   <picture>
