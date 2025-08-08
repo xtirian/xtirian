@@ -29,13 +29,13 @@ I’m a **Software Engineering** student (currently 1/10 of the course completed
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtirian&layout=compact&theme=dracula" 
     alt="Top Languages" 
-    height="176" 
+    height="165" 
   />
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://streak-stats.demolab.com?user=xtirian&theme=dracula&hide_border=true" 
       alt="GitHub Streak" 
-      height="176" 
+      height="165" 
     />
   </a>
 </p>
