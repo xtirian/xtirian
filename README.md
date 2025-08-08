@@ -18,7 +18,11 @@ I’m a **Software Engineering** student (currently 1/10 of the course completed
   A compilation of my solutions for Frontend Mentor challenges.
 
 <p align="center">
-  <img src="https://github.com/xtirian/xtirian/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="320" style="margin-right: 20px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=xtirian&show_icons=true&theme=dracula" alt="Matheus's GitHub stats" width="320" />
 </p>
 
