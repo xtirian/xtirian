@@ -10,7 +10,7 @@ I’m a **Software Engineering** student (currently 1/10 of the course completed
   - Took the opportunity to further develop my technical skills.  
 - **2025** – Started learning **UI design** (not to become a designer, but to better understand how concepts and layouts are created).  
   - This gave me the capability to start frontend projects entirely from scratch.  
-  - See my UI projects on [Behance](https://www.behance.net/matheusfernand118).  
+  - See my UI projects on [Behance](https://www.behance.net/xtirian).  
 - **2025** – Began volunteering for the [Decola Juninho](https://www.linkedin.com/company/decola-juninho/posts/?feedView=all) project as a backend developer, working with SQL queries, database models, and PHP repositories.  
 
 ## 📂 Featured Repository
