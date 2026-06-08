@@ -49,11 +49,7 @@ I don't just write code—with a strong background in **UI/UX design principles*
 </p>
 
 <p align="center" style="margin-top: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtirian&layout=compact&theme=dracula" 
-    alt="Top Languages" 
-    height="165" 
-  />
+  <!-- O seu Streak que está funcionando -->
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://streak-stats.demolab.com?user=xtirian&theme=dracula&hide_border=true" 
